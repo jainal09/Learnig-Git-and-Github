@@ -3,4 +3,4 @@ Lets learn git and GitHub
 
 Hi ITS MY FIRST COMMIT!!!
 
-its in my cool test branch
+its in my test branch
