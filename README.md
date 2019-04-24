@@ -2,6 +2,3 @@
 Lets learn git and GitHub
 
 
-sdsdsd
-
->>>>>>> test
